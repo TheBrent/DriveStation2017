@@ -100,6 +100,6 @@ void loop() {
     digitalWrite(rightButtonLED, LOW);
   }
 
-  delay(100);
+  delay(10);
 }
 
